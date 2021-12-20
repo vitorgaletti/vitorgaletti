@@ -3,7 +3,7 @@
 
 - 🔥 Front-End Web Developer
 
-- 🌱 I’m currently learning NodeJS, SQL and Data Structure
+- 🌱 I’m currently learning Javascript for React
 
 - 👨‍💻 All of my projects are available at [devvitorgaletti](https://devvitorgaletti.netlify.app/)
 
