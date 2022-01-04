@@ -3,7 +3,7 @@
 
 - 🔥 Front-End Web Developer
 
-- 🌱 I’m currently learning Javascript for React, Sass and CSS Modules
+- 🌱 I’m currently learning ReactJS
 
 - 👨‍💻 All of my projects are available at [devvitorgaletti](https://devvitorgaletti.netlify.app/)
 
