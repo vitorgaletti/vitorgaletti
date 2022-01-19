@@ -3,7 +3,7 @@
 
 - 🔥 Front-End Web Developer
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS and Next.js
 
 - 👨‍💻 All of my projects are available at [devvitorgaletti](https://devvitorgaletti.netlify.app/)
 
