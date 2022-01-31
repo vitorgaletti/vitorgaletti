@@ -3,7 +3,7 @@
 
 - 🔥 Front-End Web Developer
 
-- 🌱 I’m currently learning ReactJS and Next.js
+- 🌱 I’m currently learning ReactJS, TypeScript and Next.js
 
 - 👨‍💻 All of my projects are available at [devvitorgaletti](https://devvitorgaletti.netlify.app/)
 
@@ -29,7 +29,6 @@
 <p align="left">
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vitorgaletti&show_icons=true&theme=midnight-purple" alt="vitorgaletti's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgaletti&layout=compact&theme=midnight-purple" alt="vitorgaletti's most languages"/>
 </p>
 
 ## 👍&nbsp;Social Links
