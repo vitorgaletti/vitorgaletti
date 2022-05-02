@@ -1,9 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vitor Galeti</h1>
 
 
-- 🔥 Front-End Web Developer
+- 🔥 Front-End Developer
 
-- 🌱 I’m currently learning ReactJS, TypeScript and Next.js
+- 🌱 I’m currently learning React, TypeScript and Next.js
 
 - 👨‍💻 All of my projects are available at [devvitorgaletti](https://devvitorgaletti.netlify.app/)
 
@@ -15,29 +15,27 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
 <p align="left">
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vitorgaletti&show_icons=true&theme=midnight-purple" alt="vitorgaletti's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vitorgaletti&show_icons=true&theme=vue-dark&hide=contribs,issues" alt="vitorgaletti's stats"/>
 </p>
 
 ## 👍&nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/DevVitorGaleti" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-DevVitorGaleti-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/vitorgaleti/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-vitorgaleti-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devvitorgaletti.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorgaleti/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevVitorGaleti)
+
