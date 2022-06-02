@@ -3,11 +3,11 @@
 
 - 🔥 Front-End Developer
 
-- 🌱 I’m currently learning React, TypeScript and Next.js
+- 🌱 I’m currently learning React, TypeScript, Next.js, Redux and Node.js
 
 - 👨‍💻 All of my projects are available at [devvitorgaletti](https://devvitorgaletti.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js**
 
 - ⚡ Fun fact: **I ❤️️ 🎮**
 
